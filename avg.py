@@ -6,4 +6,5 @@ e=int(input('Enter English marks'))
 f=a+b+c+d+e
 print('Total marks=',f)
 g=f/5
+
 print('Average=',g)
